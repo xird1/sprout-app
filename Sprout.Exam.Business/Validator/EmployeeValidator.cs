@@ -29,7 +29,7 @@ namespace Sprout.Exam.Business.Validator
                     response.ErrorMessage = "Name length must be less than 100.";
                     return response;
                 }
-                if (string.IsNullOrEmpty(employee.FullName))
+                if (string.IsNullOrEmpty(employee.Tin))
                 {
                     response.HasError = true;
                     response.ErrorMessage = "Tin can't be null or empty!";
@@ -76,7 +76,7 @@ namespace Sprout.Exam.Business.Validator
                     response.ErrorMessage = "Name length must be less than 100.";
                     return response;
                 }
-                if (string.IsNullOrEmpty(employee.FullName))
+                if (string.IsNullOrEmpty(employee.Tin))
                 {
                     response.HasError = true;
                     response.ErrorMessage = "Tin can't be null or empty!";
