@@ -32,9 +32,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Bootstrap\Sprout.Exam.Bootstrap.csproj" />
-    <ProjectReference Include="..\Sprout.Exam.Business\Sprout.Exam.Business.csproj" />
-    <ProjectReference Include="..\Sprout.Exam.Common\Sprout.Exam.Common.csproj" />
+    <ProjectReference Include="..\Bootstrap\Sprout.Bootstrap.csproj" />
+    <ProjectReference Include="..\Sprout.Exam.Business\Sprout.Business.csproj" />
+    <ProjectReference Include="..\Sprout.Exam.Common\Sprout.Common.csproj" />
   </ItemGroup>
 
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">

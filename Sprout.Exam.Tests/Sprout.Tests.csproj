@@ -14,8 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Sprout.Exam.Business\Sprout.Exam.Business.csproj" />
-    <ProjectReference Include="..\Sprout.Exam.WebApp\Sprout.Exam.WebApp.csproj" />
+    <ProjectReference Include="..\Sprout.Exam.Business\Sprout.Business.csproj" />
+    <ProjectReference Include="..\Sprout.Exam.WebApp\Sprout.WebApp.csproj" />
   </ItemGroup>
 
 </Project>

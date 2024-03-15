@@ -9,8 +9,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Sprout.Exam.Common\Sprout.Exam.Common.csproj" />
-    <ProjectReference Include="..\Sprout.Exam.DataAccess\Sprout.Exam.DataAccess.csproj" />
+    <ProjectReference Include="..\Sprout.Exam.Common\Sprout.Common.csproj" />
+    <ProjectReference Include="..\Sprout.Exam.DataAccess\Sprout.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>
