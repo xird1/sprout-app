@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprout.WebApp", "Sprout.Exam.WebApp\Sprout.WebApp.csproj", "{1A7BD9B9-4F89-4AF3-8540-6FB82B793212}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprout.WebApp", "Sprout.WebApp\Sprout.WebApp.csproj", "{1A7BD9B9-4F89-4AF3-8540-6FB82B793212}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprout.Business", "Sprout.Exam.Business\Sprout.Business.csproj", "{C5431F89-D19E-4848-985C-E622C0D349D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprout.Business", "Sprout.Business\Sprout.Business.csproj", "{C5431F89-D19E-4848-985C-E622C0D349D8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprout.DataAccess", "Sprout.Exam.DataAccess\Sprout.DataAccess.csproj", "{45A7F393-1704-4881-A782-2FC8AA32BCD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprout.DataAccess", "Sprout.DataAccess\Sprout.DataAccess.csproj", "{45A7F393-1704-4881-A782-2FC8AA32BCD6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprout.Common", "Sprout.Exam.Common\Sprout.Common.csproj", "{8DFA8282-B821-463A-914D-E3DE367A1BE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprout.Common", "Sprout.Common\Sprout.Common.csproj", "{8DFA8282-B821-463A-914D-E3DE367A1BE7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprout.Bootstrap", "Sprout.Bootstrap\Sprout.Bootstrap.csproj", "{99B182ED-A87A-4A9A-B169-DCA1F7267FFE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprout.Tests", "Sprout.Exam.Tests\Sprout.Tests.csproj", "{A39B4A15-2F3B-4701-B567-21DE483B1E91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprout.Tests", "Sprout.Tests\Sprout.Tests.csproj", "{A39B4A15-2F3B-4701-B567-21DE483B1E91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
